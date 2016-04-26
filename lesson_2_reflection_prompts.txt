@@ -15,6 +15,9 @@ How can you use the staging area to make sure you have one commit per logical
 change?
 
 
+The staging area can be used to customize which files will be included in a commit. If there is more than one logical change in different files this can be done in multiple commits by grouping the files appropriately in the staging area.
+
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
