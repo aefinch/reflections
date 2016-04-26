@@ -27,6 +27,10 @@ Branches are helpful when trying out different versions of something. The master
 
 How do the diagrams help you visualize the branch structure?
 
+The diagrams help me visualize branch structure by depicting how each commit is related and how some commits can end up "lost" along the way.
+
+
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
