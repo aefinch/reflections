@@ -35,5 +35,8 @@ What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
 
+
+Merging two branches together combines two versions of a file by keeping the lines found in both and getting rid of lines or adding lines that were changed from the parent commit where the branches disected.  It is shown in the diagram this way so that you can see all of the commits are reachable by the same tip now.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
