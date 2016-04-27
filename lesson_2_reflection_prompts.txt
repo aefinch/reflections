@@ -40,3 +40,7 @@ Merging two branches together combines two versions of a file by keeping the lin
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+
+Automatic merging doesn't always work for every change as it is not always clear which lines should stay or go but it is a lot faster and works reasonable well.
+Manual merges mean you have complete control over how the commits are merged, but it can take a lot longer.
