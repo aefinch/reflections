@@ -18,7 +18,7 @@ Clones would be used any time you need to make a copy of a repository, maybe ont
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    The benefit of the having the last known state of the remote stored locally is so that even if you are working offline you can compare your work to the most recent state of the remote.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
