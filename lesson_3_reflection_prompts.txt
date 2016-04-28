@@ -23,7 +23,8 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Without Git Hub to create commits, I would need to save multiple versions of my files with different names in order to be able to refer back to them.  It would take up more space on my computer and be more complicated to manage.
+I would also have to email files back and forth with other people in order to collaberate.  Different versions would have to be merged manually.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
