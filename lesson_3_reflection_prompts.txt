@@ -29,4 +29,4 @@ I would also have to email files back and forth with other people in order to co
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    It's a good idea to make changes in a separate branch when collaborating with others to get their input from others before changing the master version.  You may want to just make changes on the master branch when you are working on your own and know what changes need to be made.
